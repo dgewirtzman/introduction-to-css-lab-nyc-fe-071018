@@ -12,7 +12,6 @@ div {
   font-family: "Helvetica Neue";
   background-color: red;
   padding: 30px;
-  color: white;
 }
 
 /* ID selector to select the element with id 'main-header' */
